@@ -1,4 +1,4 @@
-# A script to visualise the potential in the 2D space around point sources of a feild obeying the inverse square law
+# A script to visualise the potential in the 2D space around point sources of a field obeying the inverse square law
 # (c) 2015 Christopher Stone
 
 #!/usr/bin/env python2.6
